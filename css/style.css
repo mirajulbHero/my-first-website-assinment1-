@@ -187,6 +187,28 @@ nav .btn {
     color: #757575;
 }
 
+/* focus area style */
+.focus-area {
+    margin: 0 100px;
+    text-align: center;
+   background-color: white;
+   padding: 30px 0;
+   border-radius: 10px;
+}
+.focus-area p {
+    margin: 15px 0;
+}
+
+.focus-area .focus-img {
+    display: flex;
+    justify-content: center;
+    
+}
+.focus-area .focus-img img {
+    border-radius: 40px;
+    margin-top: 25px;
+}
+
 
 
 
