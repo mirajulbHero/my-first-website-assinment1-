@@ -208,6 +208,44 @@ nav .btn {
     border-radius: 40px;
     margin-top: 25px;
 }
+/* Touch area style */
+.get-in-touch-area {
+    margin: 0 100px;
+    padding: 50px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.get-in-touch-area  h2 {
+    font-size: 100px;
+    font-weight: 700;
+    color:black;
+}
+
+.get-in-touch-area form input {
+    display: block;
+    padding: 12px 10px;
+    width: 100%;
+}
+.get-in-touch-area form textarea,
+.get-in-touch-area form input {
+    margin-bottom: 15px;
+}
+.get-in-touch-area label {
+    margin-bottom: 10px;
+    font-weight: bold;
+    display: block;
+}
+.get-in-touch-areaform textarea{
+    display: block;
+    width: 100%;
+}
+.get-in-touch-area .btn{
+    display: block;
+    width: 100%;
+
+}
+
 
 
 
