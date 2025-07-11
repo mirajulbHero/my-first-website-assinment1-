@@ -239,11 +239,34 @@ nav .btn {
 .get-in-touch-areaform textarea{
     display: block;
     width: 100%;
+    text-align: center;
 }
 .get-in-touch-area .btn{
     display: block;
     width: 100%;
+}
 
+/* footer area style */
+footer {
+    background-color: #fff;
+    margin: 0 100px;
+}
+.footer-content {
+    text-align: center;
+    padding: 60px 0;
+}
+.footer-content p {
+    margin: 15px 0;
+    color: #8987A1;
+}
+.footer-content ul{
+    display: flex;
+    justify-content: center;
+}
+.footer-content ul li {
+    list-style: none;
+    margin: 10px 15px;
+    color: #8987A1;
 }
 
 
